@@ -5,14 +5,13 @@
 **The project name:** Final_Kiranpreet Chat Application
 
 **Description:**  
-This project is a chat application designed to facilitate communication between a single client and a server. It supports user registration, login authentication, and private messaging using multi-threading and Java sockets. The server manages client connections and ensures secure, real-time message delivery.
+The goal of this project is to create a chat program that will help one client and one server communicate with one another. Using Java sockets, it facilitates user private messaging. Secure, real-time message transmission is guaranteed by the server, which also handles client connections.
 
 **Revision History:**
 
 | Date     | Comment                                 | Author          |
 |----------|-----------------------------------------|------------------|
 | [Date]   | Initial document creation                | Kiranpreet Kaur  |
-| [Date]   | Adjusted to focus on single-user messaging | Kiranpreet Kaur  |
 
 ## Overview
 
