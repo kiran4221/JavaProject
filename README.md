@@ -50,21 +50,19 @@ This module focuses on the functionalities of both the client and server compone
 
 | # | Description                            | Hrs. Est. |
 |---|----------------------------------------|-----------|
-| 1 | Client GUI Development                 | 25        |
-| 2 | Server-side Messaging Logic            | 20        |
-| 3 | Client-Server Communication             | 15        |
-| 4 | User Authentication Implementation      | 15        |
-| 5 | Testing and Debugging                  | 15        |
-| TOTAL: |                                    | 90        |
+| 1 | Client GUI Development                 | #       |
+| 2 | Server-side Messaging Logic            | #       |
+| 3 | Client-Server Communication             | #       |
+| 5 | Testing and Debugging                  | #       |
+| TOTAL: |                                    | #       |
 
 ### Traceability Matrix
 
 | SRS Requirement | SDD Module                                 |
 |-----------------|--------------------------------------------|
-| Req 1           | 5.1.1 (Client Authentication), 5.2.1 (Registration & Login) |
-| Req 2           | 5.2.2 (Private Messaging)                  |
-| Req 3           | 6.1.1 (Server Handling Single Client)      |
-| Req 4           | 6.2.1 (Secure Communication)               |
+| Req 1          | 5.2.2 (Private Messaging)                  |
+| Req 2          | 6.1.1 (Server Handling Single Client)      |
+| Req 3          | 6.2.1 (Secure Communication)               |
 
 ## System Architecture
 
