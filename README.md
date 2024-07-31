@@ -5,7 +5,7 @@ Project Description
 The project name: Final_Kiranpreet Chat Application
 
 Description:  
-The goal of this project is to create a chat program that will help one client and one server communicate with one another. Using Java sockets, it facilitates user private messaging. Secure, real-time message transmission is guaranteed by the server, which also handles client connections.
+The goal of this project is to create a chat program that will help user one client and one server communicate with one another, including login as well. Using Java sockets, it facilitates user private messaging. Secure, real-time message transmission is guaranteed by the server, which also handles client connections.
 
 Revision History:
 
@@ -121,7 +121,7 @@ Dataset
 User Interface Design
 
 User Interface Design Overview: 
-Screens include user registration, login, and chat interfaces. Mockups should show how users interact with the client component.
+Screens include user login, and chat interfaces. Mockups should show how users interact with the client component.
 
 User Interface Navigation Flow:
 - Registration → Login → Chat Interface
