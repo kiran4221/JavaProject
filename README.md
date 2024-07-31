@@ -68,7 +68,7 @@ This module focuses on the functionalities of both the client and server compone
 
 **Overview:**  
 The system consists of:
-- **Client:** Provides the user interface for interacting with the chat application. Users can register, log in, and send/receive private messages.
+- **Client:** Provides the user interface for interacting with the chat application. Users can send/receive private messages.
 - **Server:** Manages the single client connection, handles message routing, and ensures security and data integrity.
 
 **Architectural Diagrams:**  
