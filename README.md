@@ -16,7 +16,7 @@ The goal of this project is to create a chat program that will help one client a
 ## Overview
 
 **Purpose:**  
-This module focuses on the functionalities of both the client and server components of the chat application, including user authentication and private messaging. It is intended for users who need a secure platform for one-to-one communication and for developers implementing the system.
+This module focuses on the functionalities of both the client and server components of the chat application, including and private messaging. It is intended for users who need a secure platform for one-to-one communication and for developers implementing the system.
 
 **Scope:**  
 - **Client:** User interface for registration, login, and private messaging.
@@ -28,10 +28,9 @@ This module focuses on the functionalities of both the client and server compone
 
 | Requirement ID | Description                                                         |
 |----------------|---------------------------------------------------------------------|
-| R1             | The client shall allow users to register and log in using a username and password. |
-| R2             | The client shall enable users to send and receive messages privately. |
-| R3             | The server shall handle the client connection and manage message routing. |
-| R4             | The server shall ensure secure transmission of messages between the client and server. |
+| R1             | The client shall enable users to send and receive messages privately. |
+| R2            | The server shall handle the client connection and manage message routing. |
+| R3            | The server shall ensure secure transmission of messages between the client and server. |
 
 ### Non-Functional Requirements
 
@@ -46,13 +45,6 @@ This module focuses on the functionalities of both the client and server compone
 |-------------|--------------------------------------------------------------------|
 | Hardware    | The server shall run on machines with at least 4GB of RAM and 2 CPUs. |
 | Software    | Developed using Java. The client uses JavaFX for GUI, and the server utilizes Java Sockets for communication. |
-
-### Security Requirements
-
-| Requirement       | Description                                                        |
-|-------------------|--------------------------------------------------------------------|
-| Authentication    | The system shall use secure authentication methods for user logins. |
-| Data Encryption   | All messages shall be encrypted during transmission.               |
 
 ### Estimates
 
