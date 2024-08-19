@@ -11,7 +11,7 @@ Revision History:
 
 | Date     | Comment                                 | Author          |
 |----------|-----------------------------------------|------------------|
-| [Date]   | Initial document creation                | Kiranpreet Kaur  |
+|  Aug 12  | Initial document creation                | Kiranpreet Kaur  |
 
 Overview
 
